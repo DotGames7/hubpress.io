@@ -3,7 +3,7 @@
     "username": "DotGames7",
     "repositoryName": "hubpress.io",
     "branch": "gh-pages",
-    "cname": ""
+    "cname": "https://dotgames7.github.io/hubpress.io/"
   },
   "theme": {
     "name": "casper"
@@ -29,7 +29,7 @@
     "description": "no desc",
     "logo": "logo",
     "cover": "",
-    "delay": "300",
+    "delay": "",
     "postsPerPage": "2",
     "googleAnalytics": "",
     "disqus": ""
